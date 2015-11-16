@@ -1,0 +1,3 @@
+F:\Visual C++ programs\GizmoBall\GizmoBall\bin\Debug\GizmoBall.exe.config
+C:\Users\DEAR-YUELIN\OneDrive\Documents\GizmoBall\GizmoBall\bin\Debug\GizmoBall.exe.config
+C:\Users\thoma_000\SkyDrive\Documents\GizmoBall\GizmoBall\bin\Debug\GizmoBall.exe.config
