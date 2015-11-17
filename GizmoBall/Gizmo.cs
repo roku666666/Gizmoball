@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GizmoBall
 {
-    enum TypeGizmo { BUMPER, FLIPPER, ABSORBER, BALL };
+    public enum TypeGizmo { BUMPER, FLIPPER, ABSORBER, BALL };
 
     public abstract class Gizmo
     //  Description:    是棋盤上所有控制項的抽象類代表

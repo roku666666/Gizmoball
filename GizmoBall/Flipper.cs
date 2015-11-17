@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GizmoBall
 {
-    enum OrientFlp { LEFT, RIGHT };
+    public enum OrientFlp { LEFT, RIGHT };
 
     public class Flipper : Gizmo
     //  在flipper中，一個flipper佔有LENGTH_FLP個格子，它的pos指代的是它自己的pivot

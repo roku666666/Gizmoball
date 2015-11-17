@@ -1,3 +1,13 @@
 F:\Visual C++ programs\GizmoBall\GizmoBall\bin\Debug\GizmoBall.exe.config
 C:\Users\DEAR-YUELIN\OneDrive\Documents\GizmoBall\GizmoBall\bin\Debug\GizmoBall.exe.config
 C:\Users\thoma_000\SkyDrive\Documents\GizmoBall\GizmoBall\bin\Debug\GizmoBall.exe.config
+C:\Users\thoma_000\SkyDrive\Documents\gitGizmoball\Gizmoball\GizmoBall\bin\Debug\GizmoBall.exe.config
+C:\Users\thoma_000\SkyDrive\Documents\gitGizmoball\Gizmoball\GizmoBall\obj\Debug\GizmoBall.csprojResolveAssemblyReference.cache
+C:\Users\thoma_000\SkyDrive\Documents\gitGizmoball\Gizmoball\GizmoBall\obj\Debug\GizmoBall.FormEdit.resources
+C:\Users\thoma_000\SkyDrive\Documents\gitGizmoball\Gizmoball\GizmoBall\obj\Debug\GizmoBall.FormUI.resources
+C:\Users\thoma_000\SkyDrive\Documents\gitGizmoball\Gizmoball\GizmoBall\obj\Debug\GizmoBall.Properties.Resources.resources
+C:\Users\thoma_000\SkyDrive\Documents\gitGizmoball\Gizmoball\GizmoBall\obj\Debug\GizmoBall.csproj.GenerateResource.Cache
+C:\Users\thoma_000\SkyDrive\Documents\gitGizmoball\Gizmoball\GizmoBall\bin\Debug\GizmoBall.exe
+C:\Users\thoma_000\SkyDrive\Documents\gitGizmoball\Gizmoball\GizmoBall\bin\Debug\GizmoBall.pdb
+C:\Users\thoma_000\SkyDrive\Documents\gitGizmoball\Gizmoball\GizmoBall\obj\Debug\GizmoBall.exe
+C:\Users\thoma_000\SkyDrive\Documents\gitGizmoball\Gizmoball\GizmoBall\obj\Debug\GizmoBall.pdb

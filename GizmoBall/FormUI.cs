@@ -39,7 +39,8 @@ namespace GizmoBall
 
         private void btnEdit_Click(object sender, EventArgs e)
         {
-
+            FormEdit f = new FormEdit();
+            f.ShowDialog();
         }
 
         private void btnPlay_Click(object sender, EventArgs e)

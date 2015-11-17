@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace GizmoBall
 {
-    enum TypeBumper {SQUARE, TRIANGLE, CIRCLE};
-    enum OrientTrg {L_U, L_D, R_U, R_D};    // 尖尖頭指向左上左下右上右下
+    public enum TypeBumper { SQUARE, TRIANGLE, CIRCLE };
+    public enum OrientTrg { L_U, L_D, R_U, R_D };    // 尖尖頭指向左上左下右上右下
 
     //*************************************************************************
 

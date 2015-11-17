@@ -78,6 +78,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -91,6 +92,40 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ball.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Circle.png" />
+    <None Include="Resources\FliperLeftDown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FliperLeftInit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FliperRightDown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FliperRightInit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\square.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TriDownLeft.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TriDownRight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TriUpLeft.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TriUpRight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\absorber.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
