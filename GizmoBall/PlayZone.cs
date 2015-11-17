@@ -433,5 +433,19 @@ namespace GizmoBall
                 return false;
             return true;
         }
+
+        public void DragIntoBoard()
+        //  Post:   檢查這個Position的橫縱坐標, 如果超出Board就拖回Board
+        {
+            if (x > PlayZone.LENGTH_BOARD - 1)
+                x = PlayZone.LENGTH_BOARD - 1;
+            else if (x < 0)
+                x = 0;
+
+            if (y > PlayZone.LENGTH_BOARD - 1)
+                y = PlayZone.LENGTH_BOARD - 1;
+            else if (y < 0)
+                y = 0;
+        }
     }
 }

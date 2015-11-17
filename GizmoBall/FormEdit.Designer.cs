@@ -51,6 +51,8 @@
             this.plBoard.Size = new System.Drawing.Size(410, 410);
             this.plBoard.TabIndex = 0;
             this.plBoard.Paint += new System.Windows.Forms.PaintEventHandler(this.plBoard_Paint);
+            this.plBoard.MouseDown += new System.Windows.Forms.MouseEventHandler(this.plBoard_MouseDown);
+            this.plBoard.MouseMove += new System.Windows.Forms.MouseEventHandler(this.plBoard_MouseMove);
             // 
             // plToolBox
             // 
