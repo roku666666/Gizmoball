@@ -47,6 +47,7 @@
     <Compile Include="Absorber.cs" />
     <Compile Include="Ball.cs" />
     <Compile Include="Bumper.cs" />
+    <Compile Include="CollisionDetector.cs" />
     <Compile Include="Flipper.cs" />
     <Compile Include="FormEdit.cs">
       <SubType>Form</SubType>

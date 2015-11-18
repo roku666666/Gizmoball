@@ -11,3 +11,13 @@ C:\Users\thoma_000\SkyDrive\Documents\gitGizmoball\Gizmoball\GizmoBall\bin\Debug
 C:\Users\thoma_000\SkyDrive\Documents\gitGizmoball\Gizmoball\GizmoBall\bin\Debug\GizmoBall.pdb
 C:\Users\thoma_000\SkyDrive\Documents\gitGizmoball\Gizmoball\GizmoBall\obj\Debug\GizmoBall.exe
 C:\Users\thoma_000\SkyDrive\Documents\gitGizmoball\Gizmoball\GizmoBall\obj\Debug\GizmoBall.pdb
+C:\Users\SouthStreet\Desktop\OOAD\gitGizmoball\Gizmoball\GizmoBall\bin\Debug\GizmoBall.exe.config
+C:\Users\SouthStreet\Desktop\OOAD\gitGizmoball\Gizmoball\GizmoBall\obj\Debug\GizmoBall.exe
+C:\Users\SouthStreet\Desktop\OOAD\gitGizmoball\Gizmoball\GizmoBall\obj\Debug\GizmoBall.pdb
+C:\Users\SouthStreet\Desktop\OOAD\gitGizmoball\Gizmoball\GizmoBall\bin\Debug\GizmoBall.exe
+C:\Users\SouthStreet\Desktop\OOAD\gitGizmoball\Gizmoball\GizmoBall\bin\Debug\GizmoBall.pdb
+C:\Users\SouthStreet\Desktop\OOAD\gitGizmoball\Gizmoball\GizmoBall\obj\Debug\GizmoBall.csprojResolveAssemblyReference.cache
+C:\Users\SouthStreet\Desktop\OOAD\gitGizmoball\Gizmoball\GizmoBall\obj\Debug\GizmoBall.FormEdit.resources
+C:\Users\SouthStreet\Desktop\OOAD\gitGizmoball\Gizmoball\GizmoBall\obj\Debug\GizmoBall.FormUI.resources
+C:\Users\SouthStreet\Desktop\OOAD\gitGizmoball\Gizmoball\GizmoBall\obj\Debug\GizmoBall.Properties.Resources.resources
+C:\Users\SouthStreet\Desktop\OOAD\gitGizmoball\Gizmoball\GizmoBall\obj\Debug\GizmoBall.csproj.GenerateResource.Cache
